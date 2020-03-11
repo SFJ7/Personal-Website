@@ -1,5 +1,5 @@
 header {
-    background: url(../img/bg_head_3.png) no-repeat center center;
+    background: url(../img/woven-cloth-352481_1920.jpg) no-repeat center center;
     background-size: cover;
 }
 .button-mywall {
@@ -66,7 +66,7 @@ header {
     background: #107F8E;
 }
 .bg-skills {
-    background: url(../img/bg_head_3.png) no-repeat center center;
+    background: url(../img/woven-cloth-352481_1920.jpg) no-repeat center center;
     background-size: cover;
 }
 .my-blue {
@@ -91,7 +91,7 @@ header {
     border-bottom: 2px solid #00CD98;
 }
 .bg-work {
-    background: url(../img/bg_head_3.png) no-repeat center center;
+    background: url(../img/woven-cloth-352481_1920.jpg) no-repeat center center;
     background-size: cover;
 }
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
@@ -115,7 +115,7 @@ header {
     background-color: #0CD2A4;
 }
 .bg-contact {
-    background: url(../img/bg_head_3.png) no-repeat center center;
+    background: url(../img/woven-cloth-352481_1920.jpg) no-repeat center center;
     background-size: cover;
 }
 .separator-ct {
@@ -134,4 +134,37 @@ header {
 }
 #successmsg {
     background-color: #0CD2A4;
+}
+.video-background {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+
+.video-background-fullscreen {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: auto;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.center-timeline-icons {
+    padding-top:25px;
+    padding-left:30px
+}
+
+.center-timeline-icons-other {
+    padding-top:10px;
+    padding-left:10px
 }
