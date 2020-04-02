@@ -7,5 +7,8 @@
     <orderEntry type="library" name="3e96b8a2a8" level="application" />
     <orderEntry type="library" name="respond" level="application" />
     <orderEntry type="library" name="html5shiv" level="application" />
+    <orderEntry type="library" name="font-awesome" level="application" />
+    <orderEntry type="library" name="ac51626f22" level="application" />
+    <orderEntry type="library" name="278dd6284c" level="application" />
   </component>
 </module>
